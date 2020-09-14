@@ -1,1 +1,1 @@
-# Violetta-sourse.io/rsschool-cv/cv
+# Violetta-sourse.github.io/rsschool-cv/cv
